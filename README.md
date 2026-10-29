@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Full-Stack Development & Problem Solving**<br><br>👯 I’m looking to collaborate on **Full-Stack Projects, AI/ML & Open Source**<br><br>🤝 I’m looking for help with **System Design & Scalable Applications**<br><br>🌱 I’m currently learning **Advanced DSA, Backend Engineering & AI/ML**<br><br>💬 Ask me about **Algorithms**<br><br>⚡ Fun fact: **I love turning ideas into real-world projects and solving challenging problems.**
+🔭 I’m currently working on **Full-Stack Development & Problem Solving**br>👯 I’m looking to collaborate on **Full-Stack Projects, AI/ML & Open Source**<br>🤝 I’m looking for help with **System Design & Scalable Applications**<br><br>🌱 I’m currently learning **Advanced DSA, Backend Engineering & AI/ML**<br>💬 Ask me about **Algorithms**<br>⚡ Fun fact: **I love turning ideas into real-world projects and solving challenging problems.**
 
 
 ## 🌐 Socials:
